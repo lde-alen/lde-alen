@@ -1,5 +1,4 @@
-[![lde-alen's 42 stats](https://badge42.herokuapp.com/api/stats/lde-alen?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
+[![lde-alen's 42 stats](https://badge42.herokuapp.com/api/stats/lde-alen?privacyEmail=true?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 - 👋 Hi, I’m @lde-alen
 - 👀 I’m interested in ...
