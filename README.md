@@ -10,7 +10,9 @@ Here is my current progress in 42 Abu Dhabi and my current progression.
 
 **RANK 0:**
 
+
 Libft: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/project/lde-alen/Libft)](https://github.com/JaeSeoKim/badge42)
+> This project is about recreating a series of system functions and compiling everything into an archive and creating our own Library in order to use it for the rest of the foundation.
 
 **RANK 1:**
 
