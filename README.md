@@ -21,11 +21,13 @@ Ft_printf: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/proj
 > This project consists on recreating the system printf but not all the flags.
 
 Get_next_line: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/project/lde-alen/get_next_line)](https://github.com/JaeSeoKim/badge42)
-> The GNL function takes as parameter a file descriptor and should return the next line available inside the file can
+> The GNL function takes as parameter a file descriptor and should return the next line available inside the file.
 
 **RANK 2:**
 
 Fract-ol: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/project/lde-alen/fract-ol)](https://github.com/JaeSeoKim/badge42)
+>
+
 <!---
 lde-alen/lde-alen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
