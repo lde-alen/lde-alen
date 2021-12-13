@@ -7,7 +7,7 @@ Here you can follow my 42AbuDhabi journey and the projects that I am doing as we
 :ghost: I’m currently mostly developping in C and C++ for the next while but will post some other codes or unix projects whenever they occur.
 Hope you all have fun and enjoy the ride.
 
-Here is my current progress in 42 Abu Dhabi and my current progression.
+**42 Abu Dhabi Progression and Results:**
 
 **RANK 0:**
 
