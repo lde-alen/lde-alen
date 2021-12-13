@@ -13,13 +13,15 @@ Hope you all have fun and enjoy the ride.
 
 
 Libft: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/project/lde-alen/Libft)](https://github.com/JaeSeoKim/badge42)
-> This project is about recreating a series of system functions and compiling everything into an archive and creating our own Library in order to use it for the rest of the foundation.
+> In 42 we are forbidden from using system functions in our projects. This project consists on recreating a series of functions in order to compile them as an archive to create our own Library that will be further enhanced with our own preferences and used for the rest of the cursus.
 
 **RANK 1:**
 
 Ft_printf: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/project/lde-alen/ft_printf)](https://github.com/JaeSeoKim/badge42)
+> This project consists on recreating the system printf but not all the flags.
 
 Get_next_line: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/project/lde-alen/get_next_line)](https://github.com/JaeSeoKim/badge42)
+> The GNL function takes as parameter a file descriptor and should return the next line available inside the file can
 
 **RANK 2:**
 
