@@ -26,7 +26,8 @@ Get_next_line: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/
 **RANK 2:**
 
 Fract-ol: [![lde-alen's 42Project Score](https://badge42.herokuapp.com/api/project/lde-alen/fract-ol)](https://github.com/JaeSeoKim/badge42)
->
+> Fract-ol project is mainly a graphical project requiring us to draw a multiple fractals. In Mathematics, a fractal is a subset of Euclidean space with a fractal dimension that strictly exceeds its topological dimension. It contains a pattern that repeats as you zoom and you are supposed to have an infinite zoom, or at least zoom until the limit of your machine.
+> For this project we are force to use the minilibx that is a 42 version of the libx which is basically a graphical library in which only a very limited amount of functions are available. Everything else that is required has to be coded by ourselves.
 
 <!---
 lde-alen/lde-alen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
