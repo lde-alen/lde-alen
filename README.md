@@ -1,5 +1,7 @@
 [![lde-alen's 42 stats](https://badge42.herokuapp.com/api/stats/lde-alen?privacyEmail=true?)](https://github.com/JaeSeoKim/badge42)
 
+[![42](https://badgen.net/badge/Born2Code/lde-alen/red?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://www.42network.org/)
+
 Hi, I’m Lucas De Alencastro Moreira.
 
 Here you can follow my 42AbuDhabi journey and the projects that I am doing as well as what I put available.
