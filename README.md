@@ -51,8 +51,8 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
 <br/>
 </div>
 <br/>
-  
-  <h4>🖥️ My Github Stats</h4>
+  <details>
+  <summary><b>🖥️ My Github Stats</b></summary>
  <br/>
  <p align='center'>
 <a href="https://github.com/lde-alen">
