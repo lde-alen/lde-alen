@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lde-alen&left_color=gray&right_color=red)
 
 <h1 align='center'>
-  Heya 👋 I'm Lucas :brazil:👨‍💻.
+  Heya 👋 I'm Lucas :brazil:👨‍💻
 </h1>
 
 <p align='center'>
