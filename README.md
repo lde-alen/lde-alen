@@ -28,7 +28,7 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
 
 ### Feel free to check the repos and get in touch :wolf: ! 
 
-<a href="https://linkedin.com/in/lucasdeamoreira" target="_blank">
+<a href="https://hashnode.com/@lde-alen" target="_blank">
   <img align="center" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
   
@@ -36,7 +36,7 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
   <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/lucasdeamoreira" target="_blank">
+<a href="https://twitter.com/LucasDeaMoreira" target="_blank">
   <img align="center" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
@@ -44,7 +44,7 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
   <img align="center" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/lucasdeamoreira" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-de-alencastro-moreira-751324161/" target="_blank">
   <img align="center" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
