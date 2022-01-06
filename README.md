@@ -62,6 +62,9 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lde-alen&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/lde-alen" alt="Lucas' github stats"/>
 </a>
 </p>
+  
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  
 </details>
 
 <details>	
