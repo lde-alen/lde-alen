@@ -63,6 +63,8 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
 </a>
 </p>
   
+  ![snake gif](https://github.com/lde-alen/lde-alen/blob/output/github-contribution-grid-snake.gif)
+
 </details>
 
 <details>	
@@ -104,8 +106,6 @@ Project | Description | Result
   
 </details>
 
-
-![snake gif](https://github.com/lde-alen/lde-alen/blob/output/github-contribution-grid-snake.gif)
   
 <!---
 lde-alen/lde-alen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
