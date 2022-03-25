@@ -103,8 +103,9 @@ Project | Description | Result
 <details>
   <summary>📃 Resume</summary>
   
-  ## Education
   ## Experience
+  ## Education
+
   
 </details>
 
