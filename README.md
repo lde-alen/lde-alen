@@ -1,4 +1,5 @@
-[![42](https://badgen.net/badge/Born2Code/lde-alen/red?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://www.42network.org/)
+[![lde-alen's 42 stats](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/stats?cursusId=21&coalitionId=155)](https://github.com/JaeSeoKim/badge42)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lde-alen&left_color=gray&right_color=red)
 
