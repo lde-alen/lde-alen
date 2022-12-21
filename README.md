@@ -74,7 +74,7 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
   <summary><b>🇧🇷 <a href="https://42abudhabi.ae/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> 🇦🇪 My 42AbuDhabi Progression and Results</b></summary>
 <h2>42 Piscine</h2>
   
-[![lde-alen's 42 piscine stats](https://badge42.herokuapp.com/api/stats/lde-alen?cursus=C%20Piscine)](https://github.com/lde-alen)
+[![lde-alen's 42 stats](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
  <h2>42 Cursus</h2>
  
