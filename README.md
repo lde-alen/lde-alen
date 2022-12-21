@@ -93,6 +93,9 @@ Project | Description | Result
 [Pipex](https://github.com/lde-alen/pipex)| Pipex is a project in which we have to replicade the a specific bash synthax that uses pipes . The main purpose of this project was to understand how pipes work and communicate with each other through dup, as well as having a good parser and understanding file descripto leaks as well as learning a bit more about unix systems. So the way it works is that we have and infile, a cmd1 that is aplied to that infile, a cmd2 taking the output of the previous command as input and writing it's output in the outfile | [![lde-alen's 42 pipex Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2449740)](https://github.com/JaeSeoKim/badge42) |
 [Push_swap](https://github.com/lde-alen/push_swap)| desc | [![lde-alen's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2531715)](https://github.com/JaeSeoKim/badge42) |
 [Minishell](https://github.com/lde-alen/minishell)| desc | [![lde-alen's 42 minishell Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2734168)](https://github.com/JaeSeoKim/badge42)
+[Philosophers] | desc | link to score
+[Exam Rank 03] | desc | link to score
+[Cub3D] | desc | link to score
  
 </details>
 
