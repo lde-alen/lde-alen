@@ -4,8 +4,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lde-alen&left_color=gray&right_color=red)
 
 <h1 align='center'>
-  Heya 👋 I'm Lucas :brazil:👨‍💻
+  Heya 👋 I'm Lucas :brazil: Aka MYVH 👨‍💻<br>
 </h1>
+
 
 <p align='center'>
   An aspiring dev passionate about technologies, coding & programming, linux, offensive security and information security. From Fortaleza - Ceará, Brazil.
@@ -28,7 +29,8 @@ Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="
 
 <div align="center">
 
-### Feel free to check the repos and get in touch :wolf: ! 
+### Feel free to check the repos and get in touch :wolf: !
+  " ./MakeYourVoiceHeard && sudo -rf chown YourLife "
 
 <a href="https://hashnode.com/@lde-alen" target="_blank">
   <img align="center" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
