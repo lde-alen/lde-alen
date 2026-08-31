@@ -29,7 +29,7 @@ C and C++, no frameworks, nothing past libc until the very last one.
 
 | | | |
 |---|---|---|
-| 🧱 | `libft` | Reimplementing libc. The first time you realise the standard library is just code someone wrote. |
+| 🧱 | `libft` | Reimplementing libc. The first time you realise the standard library is just code someone wrote. |![](https://42-project-badge.glitch.me/users/lde-alen/project/libft)
 | 🖨️ | `ft_printf` | Variadic arguments and format parsing, from nothing. |
 | 📄 | `get_next_line` | Reading a file line by line with a static buffer. Deceptively awful. |
 | 🔐 | `born2beroot` | LVM-on-LUKS, UFW, SSH hardening, sudo policy, monitoring. |
