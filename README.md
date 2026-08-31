@@ -1,123 +1,119 @@
-[![lde-alen's 42 stats](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/stats?cursusId=21&coalitionId=155)](https://github.com/JaeSeoKim/badge42)
+```
+00000000: 4c75 6361 7320 4465 2041 6c65 6e63 6173   Lucas De Alencas
+00000010: 7472 6f20 4d6f 7265 6972 6120 3a3a 2049   tro Moreira :: I
+00000020: 2064 6566 696e 6520 7768 6174 2074 6869    define what thi
+00000030: 6e67 7320 6d65 616e 2062 6566 6f72 6520   ngs mean before
+00000040: 616e 796f 6e65 2062 7569 6c64 7320 7468   anyone builds th
+00000050: 656d 2e                                   em.
+```
 
+```console
+$ whoami
+myvh
+```
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lde-alen&left_color=gray&right_color=red)
+🇧🇷 Brazilian, 🇦🇪 living in Abu Dhabi. I work in government digital transformation —
+AI governance, data definitions, and the unglamorous business of deciding what things
+mean before anyone builds them. Someone has to write down what a curriculum actually
+*is* before a system can hold one, and it turns out that someone is me.
 
-<h1 align='center'>
-  Heya 👋 I'm Lucas :brazil: Aka MYVH 👨‍💻<br>
-</h1>
+For four years I did 42 Abu Dhabi at night while working full time, writing C from
+`malloc` up. Partly stubbornness. Mostly because I got tired of specifying systems I
+couldn't have built myself. 🌙
 
+---
 
-<p align='center'>
-  An aspiring dev passionate about technologies, coding & programming, linux, offensive security and information security. From Fortaleza - Ceará, Brazil.
-  </p>
-  
-<p align='center'>
-  Currently studying in <a href="https://42abudhabi.ae/"><img height="38" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a>(Abu Dhabi Campus).
-  </p>
-  
-  <p align='center'>
+### 🎓 `~/42` — the full Common Core
 
-</p>
+C and C++, no frameworks, nothing past libc until the very last one.
 
-<p align='center'>
-Here you can follow my <a href="https://42abudhabi.ae/"><img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> journey and the projects that I am doing as well as whatever side projects I post on<a href="https://github.com/lde-alen" target="_blank"> Github <a href="https://github.com/lde-alen" target="_blank">:octocat:</a>
-</p>
-<p align='center'>
-:ghost: I’m currently mostly developping in C and C++ for the next while but will post some other codes or unix   projects whenever they occur. You can also follow my journey on Hashnode. Hope you all have fun and enjoy the ride.
-</p>
+| | | |
+|---|---|---|
+| 🧱 | `libft` | Reimplementing libc. The first time you realise the standard library is just code someone wrote. |
+| 🖨️ | `ft_printf` | Variadic arguments and format parsing, from nothing. |
+| 📄 | `get_next_line` | Reading a file line by line with a static buffer. Deceptively awful. |
+| 🔐 | `born2beroot` | LVM-on-LUKS, UFW, SSH hardening, sudo policy, monitoring. |
+| 🔀 | `push_swap` | Sorting with two stacks and a fixed instruction set. An optimisation problem in a sorting costume. |
+| 🌀 | `fract-ol` / `so_long` | Graphics from first principles. Pixels, events, and a fractal that renders fast enough. |
+| 🚰 | `pipex` | `fork`, `execve`, `dup2`, pipes. Where shell behaviour stops being magic. |
+| 🍝 | `philosophers` | Threads and mutexes. No data races, no deadlocks, eventually. |
+| 🐚 | `minishell` | A Unix shell. Lexer, parser, pipes, redirections, env, signals. |
+| 🕹️ | `cub3d` | A raycasting engine. Doom-era 3D, written by hand. |
+| ➕ | `CPP 00–09` | C++ from the beginning: OOP, templates, containers, casts. |
+| 🌐 | `netpractice` | Subnetting, until the topology stopped lying to me. |
+| 💬 | `ft_irc` | An IRC server. Non-blocking sockets and a protocol to obey. |
+| 📦 | `inception` | Multi-service container stack, built from base images up. |
+| 🏁 | `ft_transcendence` | The last one. Full-stack, real-time multiplayer, auth, containerised. |
 
-<div align="center">
+**Level 10 · finished May 2025 · four years · one full-time job**
 
-### Feel free to check the repos and get in touch :wolf: !
-  " ./MakeYourVoiceHeard && sudo -rf chown YourLife "
+---
 
-<a href="https://hashnode.com/@lde-alen" target="_blank">
-  <img align="center" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-  
-<a href="https://github.com/lde-alen" target="_blank">
-  <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🐧 `~/machine`
 
-<a href="https://twitter.com/LucasDeaMoreira" target="_blank">
-  <img align="center" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
+I daily-drive Arch and I'm not taking questions.
 
-<a href="https://instagram.com/lucasdeamoreira" target="_blank">
-  <img align="center" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
+```console
+$ neofetch --minimal
 
-<a href="https://www.linkedin.com/in/lucas-de-alencastro-moreira-751324161/" target="_blank">
-  <img align="center" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  os         <Insert Arch-based distro> · daily driver, not a VM
+  wm         KDE Plasma / Hyprland
+  shell      zsh, with more aliases than is reasonable
+  editor     Neovim
+  since      the day I stopped dual-booting
+```
 
-<br/>
-</div>
-<br/>
-  <details>
-  <summary><b>🖥️ My Github Stats</b></summary>
- <br/>
- <p align='center'>
-<a href="https://github.com/lde-alen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lde-alen&show_icons=true&theme=dark&count_private=true" />
-</a>
-<a href="https://github.com/lde-alen">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lde-alen&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/lde-alen" alt="Lucas' github stats"/>
-</a>
-</p>
-  
-  ![snake gif](https://github.com/lde-alen/lde-alen/blob/output/github-contribution-grid-snake.gif)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-161B22?style=flat-square&logo=archlinux&logoColor=1793D1)
+![CachyOS](https://img.shields.io/badge/CachyOS-161B22?style=flat-square&logo=archlinux&logoColor=00C8A0)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-161B22?style=flat-square&logo=endeavouros&logoColor=7F3FBF)
+![Omarchy](https://img.shields.io/badge/Omarchy-161B22?style=flat-square&logo=archlinux&logoColor=E4572E)
+![Hyprland](https://img.shields.io/badge/Hyprland-161B22?style=flat-square&logo=hyprland&logoColor=58E1FF)
+![Neovim](https://img.shields.io/badge/Neovim-161B22?style=flat-square&logo=neovim&logoColor=57A143)
+![C](https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![n8n](https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=EA4B71)
 
-</details>
+Ricing it is a hobby I refuse to defend. 🎨
 
-<details>	
-  <br />
-  <summary><b>🇧🇷 <a href="https://42abudhabi.ae/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" /> </a> 🇦🇪 My 42AbuDhabi Progression and Results</b></summary>
-<h2>42 Piscine</h2>
-  
-[![lde-alen's 42 stats](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+---
 
- <h2>42 Cursus</h2>
- 
- [![lde-alen's 42 stats](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/stats?cursusId=21&coalitionId=155)](https://github.com/JaeSeoKim/badge42)
- 
- <h3>Foundation</h3>
+### 🔑 `~/permissions`
 
-Project | Description | Result
-------- | ----------- | ------
-[Libft](https://github.com/lde-alen/Libft) | In 42 we are forbidden from using system functions in our projects. This project consists on recreating a series of functions in order to compile them as an archive to create our own Library that will be further enhanced with our own preferences and used for the rest of the cursus. | [![lde-alen's 42 Libft Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2444328)](https://github.com/JaeSeoKim/badge42)
-[get_next_line](https://github.com/lde-alen/get_next_line)| The GNL function takes as parameter a file descriptor and should return the next line available inside the file. | [![lde-alen's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2445828)](https://github.com/JaeSeoKim/badge42)
-[ft_printf](https://github.com/lde-alen/ft_printf)| This project consists on recreating the system printf but not all the flags. | [![lde-alen's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2446045)](https://github.com/JaeSeoKim/badge42)
-[Born2beroot](https://github.com/lde-alen/born2beroot)| This project aims to introduce you to the wonderful world of virtualization. | [![lde-alen's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2446820)](https://github.com/JaeSeoKim/badge42)
-[Exam Rank 02](https://github.com/lde-alen/exam-rank-02)| Exam Rank 02 | [![lde-alen's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2514208)](https://github.com/JaeSeoKim/badge42)
-[fract-ol](https://github.com/lde-alen/fractol)| Fract-ol project is mainly a graphical project requiring us to draw a multiple fractals. In Mathematics, a fractal is a subset of Euclidean space with a fractal dimension that strictly exceeds its topological dimension. It contains a pattern that repeats as you zoom and you are supposed to have an infinite zoom, or at least zoom until the limit of your machine. For this project we are force to use the minilibx that is a 42 version of the libx which is basically a graphical library in which only a very limited amount of functions are available. Everything else that is required has to be coded by ourselves. | [![lde-alen's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2449741)](https://github.com/JaeSeoKim/badge42)
-[Pipex](https://github.com/lde-alen/pipex)| Pipex is a project in which we have to replicade the a specific bash synthax that uses pipes . The main purpose of this project was to understand how pipes work and communicate with each other through dup, as well as having a good parser and understanding file descripto leaks as well as learning a bit more about unix systems. So the way it works is that we have and infile, a cmd1 that is aplied to that infile, a cmd2 taking the output of the previous command as input and writing it's output in the outfile | [![lde-alen's 42 pipex Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2449740)](https://github.com/JaeSeoKim/badge42) |
-[Push_swap](https://github.com/lde-alen/push_swap)| desc | [![lde-alen's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2531715)](https://github.com/JaeSeoKim/badge42) |
-[Minishell](https://github.com/lde-alen/minishell)| desc | [![lde-alen's 42 minishell Score](https://badge42.vercel.app/api/v2/cl80ayaml00060gmd3h5xd835/project/2734168)](https://github.com/JaeSeoKim/badge42)
-[Philosophers] | desc | link to score
-[Exam Rank 03] | desc | link to score
-[Cub3D] | desc | link to score
- 
-</details>
+What I actually hold. No inflation.
 
-<details>
-  <br />
-  <summary><b>👷 Skill list</b></summary>
-  
-  </details>
+```
+drwxr-xr-x   ai-governance      framework · policy · ethics · risk · process
+drwxr-xr-x   data-definition    canonical models · lineage · KPI mapping
+drwxr-xr-x   systems            C · C++ · Unix · concurrency · networking
+drwxr-xr-x   automation         LLM workflows · APIs · webhooks · n8n
+drwxr-x---   security           SEC0 · systems hardening · in progress, honestly
+```
 
-<details>
-  <summary>📃 Resume</summary>
-  
-  ## Experience
-  ## Education
+That last line is group-restricted for a reason 🚧 — I'm early in security and I'd rather
+say so than perform otherwise. SEC0 done August 2026, working through TryHackMe from
+there. The interest isn't decorative: I spend my days deciding what an AI system is
+allowed to touch and who answers for it when it goes wrong, and neither question survives
+not knowing how things break.
 
-  
-</details>
+---
 
-  
-<!---
-lde-alen/lde-alen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎲 `~/misc`
+
+🗣️ Portuguese, English and French fluently. Italian, Spanish, Arabic and German somewhere
+between passable and aspirational; Arabic is the one I keep promising to fix.
+🎮 Off the clock: PC gaming, and rearranging config files I had already finished
+rearranging.
+
+```console
+$ contact
+
+  📬 
+  💼  linkedin.com/in/lucasdeamoreira
+```
+
+---
+01001101 01100001 01101011 01100101 00100000 01011001 01101111 01110101 01110010 00100000 01010110 01101111 01101001 01100011 01100101 00100000 01001000 01100101 01100001 01110010 01100100.
+---
