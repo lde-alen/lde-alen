@@ -61,6 +61,8 @@ $ neofetch --minimal
   shell      zsh, with more aliases than is reasonable
   editor     Neovim
   since      the day I stopped dual-booting
+  truth      I don't really care, as long as I'm on linux / unix systems ¯\_(ツ)_/¯ I just like arch ("BTW")
+  quote      always make yourVoiceHeard && ./sudo chown yourself yourLife 
 ```
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-161B22?style=flat-square&logo=archlinux&logoColor=1793D1)
