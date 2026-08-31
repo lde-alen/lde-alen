@@ -12,7 +12,7 @@ $ whoami
 myvh
 ```
 
-🇧🇷 Brazilian, 🇦🇪 living in Abu Dhabi. I work in government digital transformation —
+🇧🇷 Brazilian, 🇦🇪 living in Abu Dhabi. I work in government digital transformation:
 AI governance, data definitions, and the unglamorous business of deciding what things
 mean before anyone builds them. Someone has to write down what a curriculum actually
 *is* before a system can hold one, and it turns out that someone is me.
@@ -23,7 +23,7 @@ couldn't have built myself. 🌙
 
 ---
 
-### 🎓 `~/42` — the full Common Core
+### 🎓 `~/42` - the full Common Core
 
 C and C++, no frameworks, nothing past libc until the very last one.
 
@@ -94,7 +94,7 @@ drwxr-xr-x   automation         LLM workflows · APIs · webhooks · n8n
 drwxr-x---   security           SEC0 · systems hardening · in progress, honestly
 ```
 
-That last line is group-restricted for a reason 🚧 — I'm early in security and I'd rather
+That last line is group-restricted for a reason 🚧 I'm early in security and I'd rather
 say so than perform otherwise. SEC0 done August 2026, working through TryHackMe from
 there. The interest isn't decorative: I spend my days deciding what an AI system is
 allowed to touch and who answers for it when it goes wrong, and neither question survives
