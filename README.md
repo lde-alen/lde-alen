@@ -21,6 +21,63 @@ For four years I did 42 Abu Dhabi at night while working full time, writing C fr
 `malloc` up. Partly stubbornness. Mostly because I got tired of specifying systems I
 couldn't have built myself. 🌙
 
+By day I work at the specification layer of public-sector technology: frameworks, data definitions and AI governance for systems serving 400+ schools across Abu Dhabi. PMO for departmental AI initiatives, contributing to the AI governance framework itself — policy, ethics, risk and security oversight.
+
+On my own time I build harnesses in a personal software factory at home.
+
+42 Abu Dhabi Common Core, four years, mostly while working full time. C and C++, no framework doing the work.
+
+Harnesses
+
+A harness is a systems problem. Process control, state, failure handling, deciding what happens when something doesn't return. The model is the easy part. Everything around it is the engineering:
+
+Tool policy — what the agent is allowed to touch, and nothing beyond it
+Verification loops — output is scored before anything downstream trusts it; the loop runs again until it passes
+Termination — where the loop stops, and what happens when it can't converge
+Evidence — repro steps, captures and audit trail attached to every run
+Approval gates — a hard human stop before anything ships
+
+Autonomy is easy. Knowing where an agent has to stop is the actual work.
+
+<!-- TODO: link the write-up and the repo here once published -->
+
+
+ 
+## Working with
+ 
+**In the harness**
+ 
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Anthropic_API-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-0D1117?style=flat-square&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Greptile-0D1117?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linear-0D1117?style=flat-square&logo=linear&logoColor=5E6AD2" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+</p>
+**Languages & systems**
+ 
+<p>
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Power_Platform-0D1117?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
+**Governance**
+ 
+<p>
+  <img src="https://img.shields.io/badge/AI_policy_%26_ethics-0D1117?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/risk_%26_security_oversight-0D1117?style=flat-square&logoColor=white" />
+</p>
+
 ---
 
 ### 🎓 `~/42` - the full Common Core
@@ -64,6 +121,22 @@ $ neofetch --minimal
   truth      I don't really care, as long as I'm on linux / unix systems ¯\_(ツ)_/¯ I just like arch ("BTW")
   quote      always make yourVoiceHeard && ./sudo chown yourself yourLife 
 ```
+
+## Working with
+ 
+**Agents & harnesses**
+`Claude Code` `Cursor` `OpenCode` `Anthropic API` `OpenAI API` `MCP`
+`multi-agent routing` `LLM-as-judge evals` `Greptile` `Linear`
+ 
+**Languages**
+`C` `C++` `Python` `Bash`
+ 
+**Systems**
+`Linux` `Docker` `Git` `GitHub Actions` `Azure`
+ 
+**Enterprise & governance**
+`Power Platform` `AI policy and ethics frameworks` `risk and security oversight`
+
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-161B22?style=flat-square&logo=archlinux&logoColor=1793D1)
 ![CachyOS](https://img.shields.io/badge/CachyOS-161B22?style=flat-square&logo=archlinux&logoColor=00C8A0)
