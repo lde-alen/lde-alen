@@ -23,7 +23,7 @@ couldn't have built myself. 🌙
 
 By day I work at the specification layer of public-sector technology: frameworks, data definitions and AI governance for systems serving 400+ schools across Abu Dhabi. PMO for departmental AI initiatives, contributing to the AI governance framework itself — policy, ethics, risk and security oversight.
 
-On my own time I build harnesses in a personal software factory at home.
+On my own time I build harnesses in my mini software factory at home.
 
 42 Abu Dhabi Common Core, four years, mostly while working full time. C and C++, no framework doing the work.
 
